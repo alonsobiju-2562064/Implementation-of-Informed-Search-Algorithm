@@ -1,0 +1,2 @@
+# No external dependencies — this project only uses the Python standard
+# library (heapq, unittest). Requires Python 3.9 or later.
